@@ -1,0 +1,88 @@
+body{
+font-family:arial, helvetica, sans-serif;
+
+}
+
+#background{
+  position: relative;
+
+}
+
+img{
+width: 100%;
+height: 600px;
+}
+
+#holder{
+
+height: 450px;
+width: 1130px;
+position:absolute;
+background-color: white;
+top: 12%;
+right:6%;
+
+}
+
+#program{
+font-size: 15px;
+padding-top:30px;
+padding-left:40px;
+
+}
+
+#programs{
+color: red;
+font-size: 20px;
+
+
+}
+
+#mission{
+padding-top:10px;
+padding-left: 40px;
+padding-bottom:10px;
+
+}
+
+#missions{
+color: yellow;
+font-size:20px;
+}
+
+#About{
+right: 45%;
+top: 8%;
+position:absolute;
+font-size:15px;
+
+}
+
+#Abouts{
+color:green;
+font-size:20px;
+
+}
+
+#award{
+right: 45%;
+top: 50%;
+position:absolute;
+font-size:15px;
+
+
+}
+
+#awards{
+color: gray;
+font-size:20px;
+}
+
+#image
+{
+	float:right;
+	top: 4%;
+	right: 2%;
+	position:absolute;
+	
+}
